@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "38438709669",
+    "firebase_url": "https://parcel-659eb-default-rtdb.firebaseio.com",
+    "project_id": "parcel-659eb",
+    "storage_bucket": "parcel-659eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38438709669:android:e311d076c0e13ac47e604c",
+        "android_client_info": {
+          "package_name": "com.example.secure_drop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ14ZiKS5VyMKLU_zGWVUTjlIcfEKuQ9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
